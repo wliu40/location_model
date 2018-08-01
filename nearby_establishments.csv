@@ -1,0 +1,25 @@
+establishment_latitude;establishment_longitude;establishment_name;establishment_types
+35.7795897;-78.6381787;Raleigh;locality,political
+35.7992765;-78.6899516;Carlyle Campbell Library;library,point_of_interest,establishment
+35.79958279999999;-78.6908077;Frankie G. Weems Art Gallery;art_gallery,point_of_interest,establishment
+35.7989103;-78.6909706;Martin Lot Staff;premise,library,point_of_interest,establishment
+35.823483;-78.8255621;Morrisville;locality,political
+35.8577575;-78.8359571;UNC Health Care's Morrisville campus;point_of_interest,establishment
+35.8577575;-78.8359571;ISD UNC Health Care;point_of_interest,establishment
+35.79154;-78.7811169;Cary;locality,political
+35.7896757;-78.8700624;Starbucks;cafe,food,store,point_of_interest,establishment
+35.7892183;-78.870043;Biscuitville;cafe,restaurant,food,store,point_of_interest,establishment
+35.79154;-78.7811169;Cary;locality,political
+35.829423;-78.77169599999999;Extended Stay America Raleigh - Cary - Harrison Ave.;lodging,point_of_interest,establishment
+35.8293456;-78.7707877;Jiffy Lube;car_repair,point_of_interest,establishment
+35.8302672;-78.771261;Bass Pro Shops;shoe_store,clothing_store,store,point_of_interest,establishment
+35.829396;-78.7710061;CapriFlavors;restaurant,food,point_of_interest,establishment
+35.82945999999999;-78.772311;Harrison Oaks Blvd at Weston Pkwy;bus_station,transit_station,point_of_interest,establishment
+35.827521;-78.7724144;The Arboretum;neighborhood,political
+35.823483;-78.8255621;Morrisville;locality,political
+35.858719;-78.818958;Hampton Inn Raleigh-Durham Airport;lodging,point_of_interest,establishment
+35.8581983;-78.8199726;Days Inn Raleigh-Airport-Research Triangle Park;lodging,point_of_interest,establishment
+35.85863870000001;-78.8194197;Waffle House;meal_takeaway,restaurant,food,point_of_interest,establishment
+35.8587064;-78.8184502;Daly Seven Inc;lodging,point_of_interest,establishment
+35.8591226;-78.81938579999999;Airport Blvd at Aerial Center Pkwy (Waffle House);bus_station,transit_station,point_of_interest,establishment
+35.8580603;-78.81979749999999;1006 Airport Blvd Parking;parking,point_of_interest,establishment
